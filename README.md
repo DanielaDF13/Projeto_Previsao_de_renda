@@ -1,4 +1,4 @@
-# Previsâo de renda
+# Previsão de renda
 
 Projeto desenvolvido utilizando o streamlit.
 
